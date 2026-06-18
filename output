@@ -1,0 +1,38 @@
+PS C:\Users\ADMIN\Downloads\StudentGradeTracker> javac GradeTracker.java
+PS C:\Users\ADMIN\Downloads\StudentGradeTracker> java GradeTracker
+Enter number of students: 10
+Enter Student Name: Kathalappa
+Enter Marks: 90
+Enter Student Name: charan
+Enter Marks: 60
+Enter Student Name: sathya
+Enter Marks: 70
+Enter Student Name: subbnarao
+Enter Marks: 55
+Enter Student Name: girindara
+Enter Marks: 49
+Enter Student Name: seenu
+Enter Marks: 78
+Enter Student Name: junoid
+Enter Marks: 44
+Enter Student Name: lehari
+Enter Marks: 88
+Enter Student Name: divya
+Enter Marks: 60
+Enter Student Name: sravya
+Enter Marks: 78
+
+----- Student Report -----
+Kathalappa : 90
+charan : 60
+sathya : 70
+subbnarao : 55
+girindara : 49
+seenu : 78
+junoid : 44
+lehari : 88
+divya : 60
+sravya : 78
+Average Marks = 67.2
+Highest Marks = 90
+Lowest Marks = 44
